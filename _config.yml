@@ -2,3 +2,5 @@ plugins:
 - jekyll-remote-theme
 
 remote_theme: tareqdandachi/jekyll-shell-theme
+
+theme: jekyll-theme-hacker
